@@ -9,9 +9,7 @@ h1 {
     margin: 0 auto;
 }
 
-#desc {
-    display: flex;
-    justify-content: center;
+p {
     color: purple;
     font-family: 'Helvetica Neue';
     font-size: 13px;

@@ -1,7 +1,5 @@
 h1 {
-    display: flex;
-    justify-content: center;
-    color: black;
+    color: blue;
     font-family: 'Helvetica Neue';
     font-size: 30px;
     padding: 30px;
@@ -9,9 +7,14 @@ h1 {
     margin: 0 auto;
 }
 
-#desc {
-    display: flex;
-    justify-content: center;
+header {
+    background-image: url("student-life");
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+}
+
+p {
     color: purple;
     font-family: 'Helvetica Neue';
     font-size: 13px;
