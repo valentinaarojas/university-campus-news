@@ -1,0 +1,44 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;  /* Set font once for whole document */
+}
+
+header {
+    background-color: lightgrey;
+    text-align: center;
+    padding-top: 50px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 13px;
+    background-color: grey;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+#banner-desc {
+    font-size: 13px;
+    padding-bottom: 60px;
+}
+
+
+h2, #org-desc {
+    text-align: center;
+}
+
+#student-organizations {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.organization {
+    display: flex;
+  
+    margin: 20px 0;
+}

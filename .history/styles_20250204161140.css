@@ -1,0 +1,18 @@
+header {
+    background-color: lightgrey;
+    text-align: center;
+    margin: 0pv
+}
+
+h1 {
+    color: black;
+    font-family: 'Helvetica Neue';
+    font-size: 30px;
+}
+
+#banner-desc {
+    font-family: 'Helvetica Neue';
+    font-size: 13px;
+
+}
+

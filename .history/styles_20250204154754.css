@@ -1,0 +1,19 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-family: 'Helvetica Neue';
+    font-size: 30px;
+    padding-top: 30px;
+    margin: 30px;
+    background-color: aqua;
+}
+
+#banner-desc {
+    display: flex;
+    justify-content: center;
+    font-family: 'Helvetica Neue';
+    font-size: 13px;
+    padding-bottom: 30px;
+}
+

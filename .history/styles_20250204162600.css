@@ -1,0 +1,25 @@
+header {
+    background-color: lightgrey;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1 {
+    color: black;
+    font-family: 'Helvetica Neue';
+    font-size: 30px;
+}
+
+#banner-desc {
+    font-family: 'Helvetica Neue';
+    font-size: 13px;
+    padding-bottom: 50px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 13px;
+    background-color: grey;
+
+}
