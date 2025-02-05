@@ -20,10 +20,6 @@ nav a {
     color: black; 
 }
 
-nav a:hover {
-    color: rgb(116, 116, 229); 
-}
-
 h1 {
     font-size: 30px;
 }
@@ -48,6 +44,7 @@ h1 {
     width: 100%;
     text-align: center;
     margin: 10px 0;
+    color: black;
 }
 
 .organization {
@@ -75,14 +72,6 @@ h1 {
     width: 100%;
     text-align: center;
     margin: 10px 0;
-}
-
-h3 a {
-    color: black;
-}
-
-h3 a:hover {
-    color: rgb(116, 116, 229);
 }
 
 .event {

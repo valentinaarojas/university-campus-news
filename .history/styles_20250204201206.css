@@ -20,10 +20,6 @@ nav a {
     color: black; 
 }
 
-nav a:hover {
-    color: rgb(116, 116, 229); 
-}
-
 h1 {
     font-size: 30px;
 }
@@ -80,9 +76,8 @@ h1 {
 h3 a {
     color: black;
 }
-
-h3 a:hover {
-    color: rgb(116, 116, 229);
+h3 a {
+    color: black;
 }
 
 .event {
