@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color: #a3b18a;
+    background-image: linear-gradient(#e8e8e4, #a8dadc, #457b9d);
     text-align: center;
     padding-top: 50px;
 }
@@ -13,11 +13,11 @@ nav {
     display: flex;
     justify-content: space-around;
     padding: 13px;
-    background-color: #e9edc9;
+    background-color: #1d3557;
 }
 
 nav a {
-    color: black; 
+    color: white; 
 }
 
 h1 {
@@ -54,8 +54,8 @@ h1 {
 
 #student-organizations img,
 #upcoming-events img {
+    padding: 5px;
     width: 300px;
-    border: 2px solid #d8e2dc ;
 }
 
 #upcoming-events {
@@ -99,7 +99,7 @@ h1 {
 
 #headline-article img {
     width: 390px;
-    border: 2px solid #d8e2dc;
+    border: 10px solid #d8e2dc ;
 }
 
 .article-container {

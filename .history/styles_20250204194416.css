@@ -16,7 +16,7 @@ nav {
     background-color: #e9edc9;
 }
 
-nav a {
+nav a: {
     color: black; 
 }
 
@@ -54,8 +54,8 @@ h1 {
 
 #student-organizations img,
 #upcoming-events img {
+    padding: 5px;
     width: 300px;
-    border: 2px solid #d8e2dc ;
 }
 
 #upcoming-events {
@@ -99,7 +99,7 @@ h1 {
 
 #headline-article img {
     width: 390px;
-    border: 2px solid #d8e2dc;
+    border: 10px solid #d8e2dc ;
 }
 
 .article-container {
